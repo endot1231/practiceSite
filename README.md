@@ -8,7 +8,7 @@
 HTMLとCSSの勉強のために作成したサイトです。
 CSSの勉強のため、BootStrapを使用していません。
 レスポンシブ対応も行っています。
-[こちら](https://practicesite.endot1231.com/)からアクセスできます。
+[こちら](https://sample.endot1231.com/)からアクセスできます。
 
 ### インフラ
 - ConohaVps
